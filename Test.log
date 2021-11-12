@@ -1,0 +1,3 @@
+2021-11-09 14:10:01,323  INFO [main] WebDriverManager:966 - Using chromedriver 95.0.4638.69 (resolved driver for Chrome 95)
+2021-11-09 14:10:01,359  INFO [main] WebDriverManager:1021 - Exporting webdriver.chrome.driver as C:\Users\UX500019\.cache\selenium\chromedriver\win32\95.0.4638.69\chromedriver.exe
+2021-11-09 14:10:07,182  INFO [main] BasicAuthTest:60 - The Base64 encoded value is:Basic YWRtaW46YWRtaW4=

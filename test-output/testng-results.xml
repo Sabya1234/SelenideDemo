@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="23363" started-at="2021-11-01T13:14:58 IST" finished-at="2021-11-01T13:15:21 IST">
+    <groups>
+    </groups>
+    <test name="SelenideDemo" duration-ms="23363" started-at="2021-11-01T13:14:58 IST" finished-at="2021-11-01T13:15:21 IST">
+      <class name="org.selenide.GoogleTest">
+        <test-method status="PASS" signature="googleSearchTest()[pri:0, instance:org.selenide.GoogleTest@18eed359]" name="googleSearchTest" duration-ms="23267" started-at="2021-11-01T13:14:58 IST" finished-at="2021-11-01T13:15:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest -->
+      </class> <!-- org.selenide.GoogleTest -->
+    </test> <!-- SelenideDemo -->
+  </suite> <!-- Default Suite -->
+</testng-results>
